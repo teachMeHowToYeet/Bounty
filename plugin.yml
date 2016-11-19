@@ -1,0 +1,14 @@
+name: Bounty
+main: me.blazeit.com.Bounty
+version: 1.0
+author: 420
+
+commands:
+  bounty:
+    description: Aura Bounty Command.
+    aliases: [bounties]
+    
+permissions:
+  bounty.admin:
+    description: Ability to remove bounties and reload config.
+    default: OP

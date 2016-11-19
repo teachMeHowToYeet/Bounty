@@ -1,0 +1,9 @@
+#################
+# Bounty Config #
+#################
+
+# lowest price a bounty can be set for
+minimum-bounty-price: 100
+
+# show the X in chat if the player has a bounty? Must have {BOUNTY} in your chat format.
+show-bounty-status-in-chat: true
